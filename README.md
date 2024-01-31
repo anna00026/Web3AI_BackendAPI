@@ -2,7 +2,7 @@
 php8.1+laravel9+mysql+redis
 
 
-## 初始化项目
+## Initialize
 ```bash
 cp .env.develop .env
 
